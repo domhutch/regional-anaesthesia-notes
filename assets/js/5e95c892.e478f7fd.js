@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkregional_anaesthesia_notes=self.webpackChunkregional_anaesthesia_notes||[]).push([["668"],{6569(e,s,a){a.r(s),a.d(s,{default:()=>l});var r=a(4848);a(6540);var n=a(4164),t=a(4308),u=a(8287),c=a(2831),i=a(816);function l(e){return(0,r.jsx)(t.e3,{className:(0,n.A)(u.G.wrapper.docsPages),children:(0,r.jsx)(i.A,{children:(0,c.v)(e.route.routes)})})}}}]);
