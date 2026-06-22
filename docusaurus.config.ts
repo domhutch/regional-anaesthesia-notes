@@ -66,6 +66,16 @@ const config: Config = {
           label: 'Procedures',
         },
         {
+          to: '/docs/find-by-injury',
+          label: 'Find by Injury',
+          position: 'left',
+        },
+        {
+          to: '/docs/quick-reference/la-toxicity',
+          label: 'Lipid Rescue',
+          position: 'left',
+        },
+        {
           href: 'https://github.com/domhutch/regional-anaesthesia-notes',
           label: 'GitHub',
           position: 'right',
