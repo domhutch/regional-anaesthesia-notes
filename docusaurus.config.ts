@@ -41,8 +41,6 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          editUrl:
-            'https://github.com/domhutch/regional-anaesthesia-notes/tree/main/',
         },
         blog: false,
         theme: {
