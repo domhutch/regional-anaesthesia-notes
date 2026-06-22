@@ -30,7 +30,7 @@ function HomepageHeader() {
             Browse All Procedures
           </Link>
           <Link
-            className="button button--secondary button--lg button--outline"
+            className="button button--secondary button--lg"
             to="/docs/find-by-injury">
             Find by Injury
           </Link>
@@ -43,6 +43,7 @@ function HomepageHeader() {
 type QuickLink = {
   title: string;
   description: string;
+  icon: string;
   to: string;
   emergency?: boolean;
 };
@@ -50,22 +51,26 @@ type QuickLink = {
 const quickLinks: QuickLink[] = [
   {
     title: 'LA Toxicity & Lipid Rescue',
+    icon: '\u{1F6A8}',
     description: 'AAGBI Intralipid protocol, recognition, and cardiac arrest management',
     to: '/docs/quick-reference/la-toxicity',
     emergency: true,
   },
   {
     title: 'LA Dosing & Calculations',
+    icon: '\u{1F9EE}',
     description: 'Max doses, concentration tables, and adjuvants',
     to: '/docs/quick-reference/la-dosing',
   },
   {
     title: 'Standard Infusions',
+    icon: '\u{1F4A7}',
     description: 'Epidural, PVB, fascia iliaca, sciatic catheter recipes',
     to: '/docs/quick-reference/standard-infusions',
   },
   {
     title: 'Antibiotic Re-dosing',
+    icon: '\u{23F1}\u{FE0F}',
     description: 'Intraoperative re-dosing intervals by agent',
     to: '/docs/quick-reference/antibiotic-redosing',
   },
@@ -73,15 +78,16 @@ const quickLinks: QuickLink[] = [
 
 type RegionLink = {
   title: string;
+  icon: string;
   examples: string;
   to: string;
 };
 
 const regionLinks: RegionLink[] = [
-  {title: 'Upper Limb', examples: 'Shoulder, wrist ORIF, carpal tunnel', to: '/docs/category/upper-limb'},
-  {title: 'Lower Limb', examples: 'TKR, hip, ankle, ACL, amputation', to: '/docs/category/lower-limb'},
-  {title: 'Trunk', examples: 'Laparotomy, mastectomy, ribs, C-section', to: '/docs/category/trunk'},
-  {title: 'Head & Neck', examples: 'Thyroidectomy, carotid endarterectomy', to: '/docs/category/head--neck'},
+  {title: 'Upper Limb', icon: '\u{1F4AA}', examples: 'Shoulder, wrist ORIF, carpal tunnel', to: '/docs/category/upper-limb'},
+  {title: 'Lower Limb', icon: '\u{1F9B5}', examples: 'TKR, hip, ankle, ACL, amputation', to: '/docs/category/lower-limb'},
+  {title: 'Trunk', icon: '\u{1FAC1}', examples: 'Laparotomy, mastectomy, ribs, C-section', to: '/docs/category/trunk'},
+  {title: 'Head & Neck', icon: '\u{1F9E0}', examples: 'Thyroidectomy, carotid endarterectomy', to: '/docs/category/head--neck'},
 ];
 
 function QuickLinks(): ReactNode {
@@ -93,6 +99,7 @@ function QuickLinks(): ReactNode {
           {quickLinks.map((link, idx) => (
             <div className="col col--3" key={idx} style={{marginBottom: '1rem'}}>
               <Link to={link.to} className={clsx('quickLinkCard', link.emergency && 'emergencyCard')}>
+                <div className={styles.cardIcon}>{link.icon}</div>
                 <h3>{link.title}</h3>
                 <p>{link.description}</p>
               </Link>
@@ -113,6 +120,7 @@ function RegionLinks(): ReactNode {
           {regionLinks.map((region, idx) => (
             <div className="col col--3" key={idx} style={{marginBottom: '1rem'}}>
               <Link to={region.to} className="quickLinkCard">
+                <div className={styles.cardIcon}>{region.icon}</div>
                 <h3>{region.title}</h3>
                 <p>{region.examples}</p>
               </Link>
