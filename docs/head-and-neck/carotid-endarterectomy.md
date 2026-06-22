@@ -13,10 +13,10 @@ Surgical removal of atherosclerotic plaque from the carotid bifurcation to reduc
 
 ### Superficial (± intermediate) cervical plexus block
 
-- **Targets**: C2–C4 superficial branches — greater auricular, lesser occipital, transverse cervical, supraclavicular nerves
-- **Approach**: Ultrasound-guided, at the posterior border of sternocleidomastoid at C3–C4 level, deep to the investing fascia
-- **Local anaesthetic**: 10–15 mL ropivacaine 0.375–0.5%
-- **Onset**: 10–15 minutes
+**Targets**: C2–C4 superficial branches — greater auricular, lesser occipital, transverse cervical, supraclavicular nerves  
+**Approach**: Ultrasound-guided, at the posterior border of sternocleidomastoid at C3–C4 level, deep to the investing fascia  
+**Local anaesthetic**: 10–15 mL ropivacaine 0.375–0.5%  
+**Onset**: 10–15 minutes
 
 ### Advantages of awake CEA
 
@@ -47,5 +47,5 @@ Surgical removal of atherosclerotic plaque from the carotid bifurcation to reduc
 
 ## References
 
-- Defined in GALA trial. *Lancet*. 2008
+- GALA trial. *Lancet*. 2008
 - Stoneham MD et al. *Br J Anaesth*. 2015

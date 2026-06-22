@@ -13,10 +13,10 @@ Arthroscopic anterior cruciate ligament reconstruction using hamstring autograft
 
 ### Adductor canal block
 
-- **Targets**: Saphenous nerve, nerve to vastus medialis
-- **Approach**: Ultrasound-guided, mid-thigh, deep to sartorius
-- **Local anaesthetic**: 15–20 mL ropivacaine 0.375%
-- **Duration**: 12–16 hours
+**Targets**: Saphenous nerve, nerve to vastus medialis  
+**Approach**: Ultrasound-guided, mid-thigh, deep to sartorius  
+**Local anaesthetic**: 15–20 mL ropivacaine 0.375%  
+**Duration**: 12–16 hours
 
 ### Advantages over femoral nerve block
 

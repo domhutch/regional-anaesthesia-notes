@@ -13,20 +13,22 @@ Open reduction and internal fixation of ankle fractures — lateral malleolus (f
 
 ### Popliteal sciatic nerve block + saphenous nerve block
 
-- **Popliteal sciatic block**
-  - **Targets**: Tibial and common peroneal nerves proximal to their bifurcation in the popliteal fossa
-  - **Approach**: Ultrasound-guided, lateral or posterior approach, at or above the sciatic nerve bifurcation
-  - **Local anaesthetic**: 20–25 mL ropivacaine 0.5%
-  - **Onset**: 15–30 minutes (sciatic nerve is large — allow adequate onset time)
+**Popliteal sciatic block**
 
-- **Saphenous nerve block (adductor canal)**
-  - **Targets**: Saphenous nerve — sensory supply to the medial malleolus and medial ankle
-  - **Approach**: Ultrasound-guided, mid-thigh at the adductor canal
-  - **Local anaesthetic**: 10 mL ropivacaine 0.375%
+**Targets**: Tibial and common peroneal nerves proximal to their bifurcation in the popliteal fossa  
+**Approach**: Ultrasound-guided, lateral or posterior approach, at or above the sciatic nerve bifurcation  
+**Local anaesthetic**: 20–25 mL ropivacaine 0.5%  
+**Onset**: 15–30 minutes (sciatic nerve is large — allow adequate onset time)
+
+**Saphenous nerve block (adductor canal)**
+
+**Targets**: Saphenous nerve — sensory supply to the medial malleolus and medial ankle  
+**Approach**: Ultrasound-guided, mid-thigh at the adductor canal  
+**Local anaesthetic**: 10 mL ropivacaine 0.375%
 
 ### Alternatives
 
-- **Ankle block** — ring block of the 5 terminal nerves at the ankle (tibial, deep peroneal, superficial peroneal, sural, saphenous). Suitable for foot surgery; less reliable for ankle ORIF with proximal incisions
+- **Ankle block** — ring block of the 5 terminal nerves at the ankle (tibial, deep peroneal, superficial peroneal, sural, saphenous). Suitable for foot surgery; less reliable for ankle ORIF with proximal incisions.
 - **Spinal anaesthesia** — appropriate as primary anaesthetic, particularly for emergency cases
 
 ## Key anatomy

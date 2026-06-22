@@ -13,16 +13,18 @@ Total knee arthroplasty (TKA) for osteoarthritis, inflammatory arthritis, or pos
 
 ### Adductor canal block + iPACK block
 
-- **Adductor canal block**
-  - **Targets**: Saphenous nerve, nerve to vastus medialis, medial retinacular nerve
-  - **Approach**: Ultrasound-guided, mid-thigh, deep to sartorius
-  - **Local anaesthetic**: 15–20 mL ropivacaine 0.2–0.375%
-  - **Advantage**: Motor-sparing — preserves quadriceps strength for early mobilisation
+**Adductor canal block**
 
-- **iPACK (Interspace between Popliteal Artery and posterior Capsule of the Knee)**
-  - **Targets**: Posterior genicular nerves
-  - **Approach**: Ultrasound-guided, needle placed between popliteal artery and posterior femoral condyle
-  - **Local anaesthetic**: 15–20 mL ropivacaine 0.2%
+**Targets**: Saphenous nerve, nerve to vastus medialis, medial retinacular nerve  
+**Approach**: Ultrasound-guided, mid-thigh, deep to sartorius  
+**Local anaesthetic**: 15–20 mL ropivacaine 0.2–0.375%  
+**Advantage**: Motor-sparing — preserves quadriceps strength for early mobilisation
+
+**iPACK (Interspace between Popliteal Artery and posterior Capsule of the Knee)**
+
+**Targets**: Posterior genicular nerves  
+**Approach**: Ultrasound-guided, needle placed between popliteal artery and posterior femoral condyle  
+**Local anaesthetic**: 15–20 mL ropivacaine 0.2%
 
 ### Alternatives
 

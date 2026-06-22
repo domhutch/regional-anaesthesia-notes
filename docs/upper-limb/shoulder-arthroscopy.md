@@ -13,11 +13,11 @@ Arthroscopic shoulder surgery — rotator cuff repair, subacromial decompression
 
 ### Interscalene brachial plexus block
 
-- **Targets**: C5, C6 (± C7) nerve roots in the interscalene groove
-- **Approach**: Ultrasound-guided, in-plane lateral-to-medial
-- **Local anaesthetic**: 15–20 mL ropivacaine 0.375–0.5%
-- **Onset**: 15–20 minutes
-- **Duration**: 12–18 hours (with dexamethasone adjuvant)
+**Targets**: C5, C6 (± C7) nerve roots in the interscalene groove  
+**Approach**: Ultrasound-guided, in-plane lateral-to-medial  
+**Local anaesthetic**: 15–20 mL ropivacaine 0.375–0.5%  
+**Onset**: 15–20 minutes  
+**Duration**: 12–18 hours (with dexamethasone adjuvant)
 
 ### Alternatives
 
@@ -32,7 +32,7 @@ Arthroscopic shoulder surgery — rotator cuff repair, subacromial decompression
 
 ## Considerations
 
-- **Phrenic nerve palsy** occurs in ~100% of traditional interscalene blocks — avoid in patients with significant respiratory compromise or contralateral phrenic palsy
+- Phrenic nerve palsy occurs in ~100% of traditional interscalene blocks — avoid in patients with significant respiratory compromise or contralateral phrenic palsy
 - Consider low-volume technique (5–10 mL) to reduce phrenic involvement
 - Catheter placement for open procedures or anticipated severe pain
 

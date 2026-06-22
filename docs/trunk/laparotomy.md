@@ -13,10 +13,10 @@ Midline or transverse laparotomy for bowel resection, emergency laparotomy, hepa
 
 ### Thoracic epidural
 
-- **Level**: T8–T10 for mid/lower abdominal surgery; T6–T8 for upper abdominal surgery
-- **Catheter**: Threaded 3–5 cm into the epidural space
-- **Infusion**: Ropivacaine 0.2% + fentanyl 2 mcg/mL at 5–10 mL/hr
-- **Duration**: Typically maintained for 48–72 hours postoperatively
+**Level**: T8–T10 for mid/lower abdominal surgery; T6–T8 for upper abdominal surgery  
+**Catheter**: Threaded 3–5 cm into the epidural space  
+**Infusion**: Ropivacaine 0.2% + fentanyl 2 mcg/mL at 5–10 mL/hr  
+**Duration**: Typically maintained for 48–72 hours postoperatively
 
 ### Advantages of epidural
 
@@ -27,26 +27,10 @@ Midline or transverse laparotomy for bowel resection, emergency laparotomy, hepa
 
 ### Alternatives
 
-- **Rectus sheath block**
-  - Targets terminal branches of T9–T11 intercostal nerves
-  - 15–20 mL ropivacaine 0.375% per side, between rectus abdominis and posterior rectus sheath
-  - Useful for midline incisions when epidural is contraindicated
-  - Catheter insertion allows continuous infusion
-
-- **TAP block (subcostal + lateral)**
-  - Subcostal TAP for supraumbilical coverage; lateral TAP for infraumbilical
-  - 20 mL ropivacaine 0.375% per injection site
-  - Single-shot duration is limited (~12 hours); catheters improve this
-
-- **Erector spinae plane (ESP) block**
-  - Bilateral ESP at T7–T9
-  - Emerging evidence as an epidural alternative
-  - Motor-sparing; potentially less haemodynamic impact
-
-- **Intrathecal morphine**
-  - 0.1–0.3 mg preservative-free morphine added to spinal anaesthetic
-  - Excellent analgesia for 12–24 hours
-  - Appropriate when epidural is not planned (e.g. laparoscopic-assisted cases)
+- **Rectus sheath block** — targets terminal branches of T9–T11 intercostal nerves. 15–20 mL ropivacaine 0.375% per side, between rectus abdominis and posterior rectus sheath. Useful for midline incisions when epidural is contraindicated. Catheter insertion allows continuous infusion.
+- **TAP block (subcostal + lateral)** — subcostal TAP for supraumbilical coverage; lateral TAP for infraumbilical. 20 mL ropivacaine 0.375% per injection site. Single-shot duration is limited (~12 hours); catheters improve this.
+- **Erector spinae plane (ESP) block** — bilateral ESP at T7–T9. Emerging evidence as an epidural alternative. Motor-sparing; potentially less haemodynamic impact.
+- **Intrathecal morphine** — 0.1–0.3 mg preservative-free morphine added to spinal anaesthetic. Excellent analgesia for 12–24 hours. Appropriate when epidural is not planned (e.g. laparoscopic-assisted cases).
 
 ## Key anatomy
 

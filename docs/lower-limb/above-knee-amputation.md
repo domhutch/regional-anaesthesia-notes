@@ -13,17 +13,17 @@ Transfemoral amputation for peripheral vascular disease, diabetic complications,
 
 ### Plan A: Sciatic nerve catheter (popliteal or subgluteal) + single-shot femoral or fascia iliaca block
 
-- **Sciatic catheter**
-  - **Targets**: Sciatic nerve — tibial and common peroneal components (major innervation of the leg below the knee and posterior thigh)
-  - **Approach**: Ultrasound-guided, popliteal (if feasible given amputation level) or subgluteal/parasacral approach
-  - **Loading dose**: 20 mL ropivacaine 0.5%
-  - **Infusion**: Ropivacaine 0.2% at 5–8 mL/hr with 5 mL patient bolus, 30 min lockout
-  - **Duration**: 48–72 hours minimum — consider longer for phantom pain prophylaxis
+**Sciatic catheter**
 
-- **Femoral nerve / fascia iliaca block**
-  - Covers the anterior thigh and medial stump
-  - 20–30 mL ropivacaine 0.375%
-  - Single shot usually sufficient; catheter if anterior pain is a significant issue
+**Targets**: Sciatic nerve — tibial and common peroneal components (major innervation of the leg below the knee and posterior thigh)  
+**Approach**: Ultrasound-guided, popliteal (if feasible given amputation level) or subgluteal/parasacral approach  
+**Loading dose**: 20 mL ropivacaine 0.5%  
+**Infusion**: Ropivacaine 0.2% at 5–8 mL/hr with 5 mL patient bolus, 30 min lockout  
+**Duration**: 48–72 hours minimum — consider longer for phantom pain prophylaxis
+
+**Femoral nerve / fascia iliaca block**
+
+Covers the anterior thigh and medial stump. 20–30 mL ropivacaine 0.375%. Single shot usually sufficient; catheter if anterior pain is a significant issue.
 
 ### Plan B: alternatives
 
@@ -39,8 +39,8 @@ Transfemoral amputation for peripheral vascular disease, diabetic complications,
 
 ## Considerations
 
-- **Phantom limb pain**: affects 50–80% of amputees; perioperative sciatic catheter infusion for ≥ 48 hours may reduce incidence and severity
-- **Preoperative block**: starting the block before surgery (pre-emptive analgesia) may be more effective than postoperative block alone
+- Phantom limb pain affects 50–80% of amputees; perioperative sciatic catheter infusion for ≥ 48 hours may reduce incidence and severity
+- Starting the block before surgery (pre-emptive analgesia) may be more effective than postoperative block alone
 - These patients are often high-risk (vascular disease, diabetes, renal impairment) — regional anaesthesia reduces opioid burden and haemodynamic instability
 - Anticoagulation: many vascular patients are anticoagulated — check safe block intervals
 - Multimodal approach essential: gabapentinoids (pregabalin/gabapentin) started perioperatively for neuropathic pain prophylaxis

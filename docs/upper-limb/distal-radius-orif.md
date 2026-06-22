@@ -13,11 +13,11 @@ Open reduction and internal fixation of distal radius fractures — volar lockin
 
 ### Supraclavicular brachial plexus block
 
-- **Targets**: Trunks/divisions of the brachial plexus at the supraclavicular fossa
-- **Approach**: Ultrasound-guided, in-plane lateral-to-medial, needle directed toward the "corner pocket" (junction of first rib and subclavian artery)
-- **Local anaesthetic**: 20–25 mL ropivacaine 0.5%
-- **Onset**: 10–15 minutes
-- **Duration**: 12–18 hours
+**Targets**: Trunks/divisions of the brachial plexus at the supraclavicular fossa  
+**Approach**: Ultrasound-guided, in-plane lateral-to-medial, needle directed toward the "corner pocket" (junction of first rib and subclavian artery)  
+**Local anaesthetic**: 20–25 mL ropivacaine 0.5%  
+**Onset**: 10–15 minutes  
+**Duration**: 12–18 hours
 
 ### Alternatives
 

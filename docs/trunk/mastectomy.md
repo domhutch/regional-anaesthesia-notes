@@ -13,11 +13,11 @@ Simple mastectomy, modified radical mastectomy, wide local excision ± axillary 
 
 ### Paravertebral block (PVB)
 
-- **Targets**: Ipsilateral thoracic spinal nerves (T2–T6) including dorsal and ventral rami
-- **Approach**: Ultrasound-guided, parasagittal in-plane at the relevant thoracic levels
-- **Local anaesthetic**: 4–5 mL ropivacaine 0.5% per level, or 20 mL as a single-injection technique at T3–T4
-- **Onset**: 15–20 minutes
-- **Duration**: 12–18 hours
+**Targets**: Ipsilateral thoracic spinal nerves (T2–T6) including dorsal and ventral rami  
+**Approach**: Ultrasound-guided, parasagittal in-plane at the relevant thoracic levels  
+**Local anaesthetic**: 4–5 mL ropivacaine 0.5% per level, or 20 mL as a single-injection technique at T3–T4  
+**Onset**: 15–20 minutes  
+**Duration**: 12–18 hours
 
 ### Advantages of PVB
 
@@ -28,20 +28,9 @@ Simple mastectomy, modified radical mastectomy, wide local excision ± axillary 
 
 ### Alternatives
 
-- **Pectoral nerve blocks (PECS I & II)**
-  - PECS I: between pectoralis major and minor — targets medial and lateral pectoral nerves
-  - PECS II: between pectoralis minor and serratus anterior at the level of the 4th rib — targets intercostal nerves T2–T6
-  - 10 mL ropivacaine 0.375% per plane
-  - Simpler and safer than PVB; good for less extensive surgery
-
-- **Serratus anterior plane (SAP) block**
-  - Superficial or deep to serratus anterior at the mid-axillary line, 5th rib
-  - 20–30 mL ropivacaine 0.25–0.375%
-  - Covers lateral chest wall; useful adjunct for axillary dissection
-
-- **Erector spinae plane (ESP) block**
-  - Emerging alternative to PVB — similar dermatomal spread, potentially safer
-  - Evidence base still developing
+- **Pectoral nerve blocks (PECS I & II)** — PECS I: between pectoralis major and minor, targets medial and lateral pectoral nerves. PECS II: between pectoralis minor and serratus anterior at the level of the 4th rib, targets intercostal nerves T2–T6. 10 mL ropivacaine 0.375% per plane. Simpler and safer than PVB; good for less extensive surgery.
+- **Serratus anterior plane (SAP) block** — superficial or deep to serratus anterior at the mid-axillary line, 5th rib. 20–30 mL ropivacaine 0.25–0.375%. Covers lateral chest wall; useful adjunct for axillary dissection.
+- **Erector spinae plane (ESP) block** — emerging alternative to PVB with similar dermatomal spread, potentially safer. Evidence base still developing.
 
 ## Key anatomy
 

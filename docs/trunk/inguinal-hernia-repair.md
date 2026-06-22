@@ -13,15 +13,17 @@ Open or laparoscopic repair of inguinal hernia. One of the most common general s
 
 ### TAP block (transversus abdominis plane) ± ilioinguinal/iliohypogastric nerve block
 
-- **TAP block**
-  - **Targets**: T10–L1 intercostal nerves within the transversus abdominis plane
-  - **Approach**: Ultrasound-guided, lateral or subcostal approach depending on incision
-  - **Local anaesthetic**: 20 mL ropivacaine 0.375% per side
+**TAP block**
 
-- **Ilioinguinal / iliohypogastric nerve block**
-  - **Targets**: Ilioinguinal and iliohypogastric nerves medial to ASIS
-  - **Approach**: Ultrasound-guided, between internal oblique and transversus abdominis
-  - **Local anaesthetic**: 10 mL ropivacaine 0.375%
+**Targets**: T10–L1 intercostal nerves within the transversus abdominis plane  
+**Approach**: Ultrasound-guided, lateral or subcostal approach depending on incision  
+**Local anaesthetic**: 20 mL ropivacaine 0.375% per side
+
+**Ilioinguinal / iliohypogastric nerve block**
+
+**Targets**: Ilioinguinal and iliohypogastric nerves medial to ASIS  
+**Approach**: Ultrasound-guided, between internal oblique and transversus abdominis  
+**Local anaesthetic**: 10 mL ropivacaine 0.375%
 
 ### Alternatives
 

@@ -13,10 +13,10 @@ Partial or total thyroidectomy for thyroid nodules, goitre, or thyroid malignanc
 
 ### Bilateral superficial cervical plexus block
 
-- **Targets**: C2–C4 superficial branches of the cervical plexus
-- **Approach**: Ultrasound-guided, at the posterior border of sternocleidomastoid, midpoint
-- **Local anaesthetic**: 10 mL ropivacaine 0.375% per side
-- **Onset**: 10–15 minutes
+**Targets**: C2–C4 superficial branches of the cervical plexus  
+**Approach**: Ultrasound-guided, at the posterior border of sternocleidomastoid, midpoint  
+**Local anaesthetic**: 10 mL ropivacaine 0.375% per side  
+**Onset**: 10–15 minutes
 
 ### Alternatives
 

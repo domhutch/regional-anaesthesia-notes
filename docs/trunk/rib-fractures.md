@@ -13,34 +13,18 @@ Not a surgical procedure per se, but rib fractures (traumatic or pathological) c
 
 ### Serratus anterior plane (SAP) block ± catheter
 
-- **Targets**: Lateral cutaneous branches of the intercostal nerves (T2–T9)
-- **Approach**: Ultrasound-guided, superficial to serratus anterior at the mid-axillary line, 4th–5th rib
-- **Local anaesthetic**: 30 mL ropivacaine 0.25–0.375%
-- **Duration**: 8–12 hours (single shot); continuous catheter infusion for ongoing analgesia
-- **Advantage**: Safe, superficial, easily performed in the emergency department or ICU; low risk of pneumothorax
+**Targets**: Lateral cutaneous branches of the intercostal nerves (T2–T9)  
+**Approach**: Ultrasound-guided, superficial to serratus anterior at the mid-axillary line, 4th–5th rib  
+**Local anaesthetic**: 30 mL ropivacaine 0.25–0.375%  
+**Duration**: 8–12 hours (single shot); continuous catheter infusion for ongoing analgesia  
+**Advantage**: Safe, superficial, easily performed in the emergency department or ICU; low risk of pneumothorax
 
 ### Alternatives
 
-- **Erector spinae plane (ESP) block**
-  - Posterior approach at the level of the affected ribs
-  - 20–30 mL ropivacaine 0.375%
-  - Covers both anterior and posterior rib pain; catheter insertion straightforward
-  - Safe distance from pleura
-
-- **Paravertebral block (PVB)**
-  - More targeted coverage of specific dermatomes
-  - Can be placed as a catheter
-  - Small pneumothorax risk
-
-- **Thoracic epidural**
-  - Best evidence for multiple bilateral rib fractures
-  - Requires monitoring and nursing familiarity
-  - Often impractical in polytrauma (coagulopathy, spinal injury)
-
-- **Intercostal nerve blocks**
-  - Targeted but short-acting unless repeated
-  - Multiple injections needed for multiple fractures
-  - Higher pneumothorax risk per injection
+- **Erector spinae plane (ESP) block** — posterior approach at the level of the affected ribs. 20–30 mL ropivacaine 0.375%. Covers both anterior and posterior rib pain; catheter insertion straightforward. Safe distance from pleura.
+- **Paravertebral block (PVB)** — more targeted coverage of specific dermatomes. Can be placed as a catheter. Small pneumothorax risk.
+- **Thoracic epidural** — best evidence for multiple bilateral rib fractures. Requires monitoring and nursing familiarity. Often impractical in polytrauma (coagulopathy, spinal injury).
+- **Intercostal nerve blocks** — targeted but short-acting unless repeated. Multiple injections needed for multiple fractures. Higher pneumothorax risk per injection.
 
 ## Key anatomy
 

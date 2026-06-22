@@ -13,31 +13,22 @@ Lower segment caesarean section (LSCS) via a Pfannenstiel incision. May be elect
 
 ### Spinal anaesthesia (for elective and category 2–4)
 
-- **Level**: L3/4 or L4/5 interspace
-- **Local anaesthetic**: Hyperbaric bupivacaine 0.5% 2.2–2.6 mL (11–13 mg)
-- **Opioid adjuvant**: Diamorphine 0.3–0.4 mg or preservative-free morphine 0.1–0.15 mg intrathecally
-- **Target block height**: T4 to cold/touch
-- **Onset**: 5–10 minutes
+**Level**: L3/4 or L4/5 interspace  
+**Local anaesthetic**: Hyperbaric bupivacaine 0.5% 2.2–2.6 mL (11–13 mg)  
+**Opioid adjuvant**: Diamorphine 0.3–0.4 mg or preservative-free morphine 0.1–0.15 mg intrathecally  
+**Target block height**: T4 to cold/touch  
+**Onset**: 5–10 minutes
 
 ### For emergency category 1 (immediate threat to life)
 
-- **Existing epidural**: Rapid top-up with 15–20 mL lidocaine 2% with adrenaline 1:200,000 ± sodium bicarbonate
-- **No epidural in situ**: Spinal anaesthesia if time permits; general anaesthesia if not
+**Existing epidural**: Rapid top-up with 15–20 mL lidocaine 2% with adrenaline 1:200,000 ± sodium bicarbonate  
+**No epidural in situ**: Spinal anaesthesia if time permits; general anaesthesia if not
 
 ### Postoperative analgesia adjuncts
 
-- **TAP block** — useful when intrathecal opioid is omitted or inadequate
-  - Bilateral subcostal or lateral approach
-  - 20 mL ropivacaine 0.375% per side
-  - Provides somatic wound analgesia for 12–18 hours
-
-- **Quadratus lumborum (QL) block**
-  - Posterior or lateral approach
-  - May provide more extensive and longer-lasting analgesia than TAP
-  - 20 mL ropivacaine 0.25–0.375% per side
-
-- **Wound infiltration / catheter**
-  - Surgeon-placed subfascial catheter with local anaesthetic infusion
+- **TAP block** — useful when intrathecal opioid is omitted or inadequate. Bilateral subcostal or lateral approach. 20 mL ropivacaine 0.375% per side. Provides somatic wound analgesia for 12–18 hours.
+- **Quadratus lumborum (QL) block** — posterior or lateral approach. May provide more extensive and longer-lasting analgesia than TAP. 20 mL ropivacaine 0.25–0.375% per side.
+- **Wound infiltration / catheter** — surgeon-placed subfascial catheter with local anaesthetic infusion
 
 ## Key anatomy
 

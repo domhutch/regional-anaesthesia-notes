@@ -13,10 +13,10 @@ Open or endoscopic division of the transverse carpal ligament (flexor retinaculu
 
 ### WALANT (Wide Awake Local Anaesthesia No Tourniquet)
 
-- **Technique**: Subcutaneous infiltration of local anaesthetic with adrenaline at the surgical site
-- **Local anaesthetic**: 10–20 mL lidocaine 1% with 1:100,000 adrenaline
-- **Onset**: Inject 30 minutes prior to incision (allows adrenaline vasoconstriction to provide a bloodless field)
-- **Duration**: 2–3 hours
+**Technique**: Subcutaneous infiltration of local anaesthetic with adrenaline at the surgical site  
+**Local anaesthetic**: 10–20 mL lidocaine 1% with 1:100,000 adrenaline  
+**Onset**: Inject 30 minutes prior to incision (allows adrenaline vasoconstriction to provide a bloodless field)  
+**Duration**: 2–3 hours
 
 ### Advantages of WALANT
 
