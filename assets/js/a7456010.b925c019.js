@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkregional_anaesthesia_notes=self.webpackChunkregional_anaesthesia_notes||[]).push([["56"],{8552(e){e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkregional_anaesthesia_notes=self.webpackChunkregional_anaesthesia_notes||[]).push([["234"],{1597(e){e.exports=JSON.parse('{"name":"@easyops-cn/docusaurus-search-local","id":"default"}')}}]);
