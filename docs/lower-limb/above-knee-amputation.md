@@ -47,5 +47,8 @@ Covers the anterior thigh and medial stump. 20–30 mL ropivacaine 0.375%. Singl
 
 ## References
 
+- [NYSORA: Sciatic Nerve Block](https://www.nysora.com/techniques/ultrasound-guided-techniques/lower-extremity/ultrasound-guided-sciatic-nerve-block/)
+- [NYSORA: Popliteal Sciatic Block](https://www.nysora.com/techniques/ultrasound-guided-techniques/lower-extremity/ultrasound-guided-popliteal-sciatic-block/)
+- [NYSORA: Fascia Iliaca Block](https://www.nysora.com/techniques/ultrasound-guided-techniques/lower-extremity/ultrasound-guided-fascia-iliaca-block/)
 - Bosanquet DC et al. *Ann Vasc Surg*. 2015
 - PROSPECT — no specific guideline for amputation; expert consensus applies

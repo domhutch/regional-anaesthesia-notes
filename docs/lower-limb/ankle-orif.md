@@ -47,4 +47,6 @@ Open reduction and internal fixation of ankle fractures — lateral malleolus (f
 
 ## References
 
+- [NYSORA: Popliteal Sciatic Block](https://www.nysora.com/techniques/ultrasound-guided-techniques/lower-extremity/ultrasound-guided-popliteal-sciatic-block/)
+- [NYSORA: Saphenous (Adductor Canal) Block](https://www.nysora.com/regional-anesthesia/topics/regional-anesthesia-for-specific-surgical-procedures/lower-extremity-regional-anesthesia-for-specific-surgical-procedures/foot-and-anckle/ultrasound-guided-saphenous-subsartorius-adductor-canal-nerve-block/)
 - Provenzano DA et al. *Reg Anesth Pain Med*. 2005

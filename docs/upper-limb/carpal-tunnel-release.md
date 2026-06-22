@@ -46,5 +46,6 @@ Open or endoscopic division of the transverse carpal ligament (flexor retinaculu
 
 ## References
 
+- [NYSORA: Wrist Block](https://www.nysora.com/techniques/ultrasound-guided-techniques/upper-extremity/ultrasound-guided-wrist-block/)
 - Lalonde DH. *Hand Clin*. 2015
 - Nabhan A et al. *J Hand Surg Eur*. 2020

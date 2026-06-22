@@ -46,5 +46,6 @@ Total knee arthroplasty (TKA) for osteoarthritis, inflammatory arthritis, or pos
 
 ## References
 
+- [NYSORA: Saphenous (Adductor Canal) Block](https://www.nysora.com/regional-anesthesia/topics/regional-anesthesia-for-specific-surgical-procedures/lower-extremity-regional-anesthesia-for-specific-surgical-procedures/foot-and-anckle/ultrasound-guided-saphenous-subsartorius-adductor-canal-nerve-block/)
 - Terkawi AS et al. *Reg Anesth Pain Med*. 2017
 - Sankineani SR et al. *J Arthroplasty*. 2018

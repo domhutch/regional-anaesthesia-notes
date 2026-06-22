@@ -48,5 +48,6 @@ Posterior spinal surgery — laminectomy, discectomy, spinal decompression, post
 
 ## References
 
+- [NYSORA: Erector Spinae Plane Block](https://www.nysora.com/techniques/ultrasound-guided-techniques/trunk-and-abdominal-wall-blocks/erector-spinae-plane-block/)
 - Chin KJ et al. *Reg Anesth Pain Med*. 2017 (ESP block)
 - Dhaliwal P et al. *Spine J*. 2019

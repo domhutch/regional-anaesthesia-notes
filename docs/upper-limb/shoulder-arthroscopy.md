@@ -38,5 +38,6 @@ Arthroscopic shoulder surgery — rotator cuff repair, subacromial decompression
 
 ## References
 
+- [NYSORA: Interscalene Brachial Plexus Block](https://www.nysora.com/techniques/ultrasound-guided-techniques/upper-extremity/ultrasound-guided-interscalene-brachial-plexus-block/)
 - PROSPECT guidelines for shoulder surgery
 - Tran DQ et al. *Reg Anesth Pain Med*. 2019

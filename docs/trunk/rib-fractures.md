@@ -42,6 +42,9 @@ Not a surgical procedure per se, but rib fractures (traumatic or pathological) c
 
 ## References
 
+- [NYSORA: Pectoralis & Serratus Plane Blocks](https://www.nysora.com/regional-anesthesia/topics/regional-anesthesia-for-specific-surgical-procedures/thorax/pectoralis-serratus-plane-blocks/)
+- [NYSORA: Erector Spinae Plane Block](https://www.nysora.com/techniques/ultrasound-guided-techniques/trunk-and-abdominal-wall-blocks/erector-spinae-plane-block/)
+- [NYSORA: Thoracic Paravertebral Block](https://www.nysora.com/techniques/ultrasound-guided-techniques/trunk-and-abdominal-wall-blocks/ultrasound-guided-thoracic-paravertebral-block/)
 - NICE guideline NG38: Fractures — non-complex
 - May L et al. *Anaesthesia*. 2016
 - Thiruvenkatarajan V et al. *Anaesth Intensive Care*. 2020

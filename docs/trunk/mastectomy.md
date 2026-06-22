@@ -48,6 +48,8 @@ Simple mastectomy, modified radical mastectomy, wide local excision ± axillary 
 
 ## References
 
+- [NYSORA: Thoracic Paravertebral Block](https://www.nysora.com/techniques/ultrasound-guided-techniques/trunk-and-abdominal-wall-blocks/ultrasound-guided-thoracic-paravertebral-block/)
+- [NYSORA: Pectoralis & Serratus Plane Blocks](https://www.nysora.com/regional-anesthesia/topics/regional-anesthesia-for-specific-surgical-procedures/thorax/pectoralis-serratus-plane-blocks/)
 - Schnabel A et al. *Cochrane Database Syst Rev*. 2010
 - Wahba SS, Kamal SM. *J Anesth*. 2014
 - PROSPECT guidelines for breast surgery

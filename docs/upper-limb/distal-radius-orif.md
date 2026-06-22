@@ -39,4 +39,6 @@ Open reduction and internal fixation of distal radius fractures — volar lockin
 
 ## References
 
+- [NYSORA: Supraclavicular Brachial Plexus Block](https://www.nysora.com/techniques/ultrasound-guided-techniques/upper-extremity/ultrasound-guided-supraclavicular-brachial-plexus-block/)
+- [NYSORA: Wrist Block](https://www.nysora.com/techniques/ultrasound-guided-techniques/upper-extremity/ultrasound-guided-wrist-block/)
 - Tran DQ et al. *Reg Anesth Pain Med*. 2009

@@ -46,6 +46,8 @@ Lower segment caesarean section (LSCS) via a Pfannenstiel incision. May be elect
 
 ## References
 
+- [NYSORA: Epidural Anaesthesia and Analgesia](https://www.nysora.com/techniques/neuraxial-and-perineuraxial-techniques/epidural-anesthesia-analgesia/)
+- [NYSORA: TAP Block](https://www.nysora.com/techniques/ultrasound-guided-techniques/trunk-and-abdominal-wall-blocks/ultrasound-guided-transversus-abdominis-plane-tap-block/)
 - Kinsella SM et al. *Anaesthesia*. 2018 (OAA/AAGBI guidelines)
 - Sultan P et al. *Br J Anaesth*. 2020
 - NICE guideline CG132: Caesarean birth

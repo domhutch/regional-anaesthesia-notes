@@ -32,4 +32,5 @@ Partial or total thyroidectomy for thyroid nodules, goitre, or thyroid malignanc
 
 ## References
 
+- [NYSORA: Cervical Plexus Block](https://www.nysora.com/techniques/ultrasound-guided-techniques/head-and-neck-blocks/ultrasound-guided-cervical-plexus-block/)
 - Shih ML et al. *World J Surg*. 2010

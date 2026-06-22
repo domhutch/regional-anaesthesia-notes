@@ -41,6 +41,7 @@ Total hip replacement (THR) or hemiarthroplasty for osteoarthritis, fractured ne
 
 ## References
 
+- [NYSORA: Fascia Iliaca Block](https://www.nysora.com/techniques/ultrasound-guided-techniques/lower-extremity/ultrasound-guided-fascia-iliaca-block/)
 - Steenberg J, Møller AM. *Acta Anaesthesiol Scand*. 2018
 - Girón-Arango L et al. *Reg Anesth Pain Med*. 2018 (original PENG description)
 - NICE guideline CG124: Hip fracture management

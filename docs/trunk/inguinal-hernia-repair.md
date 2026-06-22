@@ -38,4 +38,5 @@ Open or laparoscopic repair of inguinal hernia. One of the most common general s
 
 ## References
 
+- [NYSORA: TAP Block](https://www.nysora.com/techniques/ultrasound-guided-techniques/trunk-and-abdominal-wall-blocks/ultrasound-guided-transversus-abdominis-plane-tap-block/)
 - PROSPECT guidelines for inguinal hernia repair

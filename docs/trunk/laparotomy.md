@@ -48,6 +48,9 @@ Midline or transverse laparotomy for bowel resection, emergency laparotomy, hepa
 
 ## References
 
+- [NYSORA: Epidural Anaesthesia and Analgesia](https://www.nysora.com/techniques/neuraxial-and-perineuraxial-techniques/epidural-anesthesia-analgesia/)
+- [NYSORA: TAP Block](https://www.nysora.com/techniques/ultrasound-guided-techniques/trunk-and-abdominal-wall-blocks/ultrasound-guided-transversus-abdominis-plane-tap-block/)
+- [NYSORA: Erector Spinae Plane Block](https://www.nysora.com/techniques/ultrasound-guided-techniques/trunk-and-abdominal-wall-blocks/erector-spinae-plane-block/)
 - Pöpping DM et al. *Arch Surg*. 2008
 - PROSPECT guidelines for laparotomy
 - ERAS Society guidelines

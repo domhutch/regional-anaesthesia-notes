@@ -47,5 +47,6 @@ Surgical removal of atherosclerotic plaque from the carotid bifurcation to reduc
 
 ## References
 
+- [NYSORA: Cervical Plexus Block](https://www.nysora.com/techniques/ultrasound-guided-techniques/head-and-neck-blocks/ultrasound-guided-cervical-plexus-block/)
 - GALA trial. *Lancet*. 2008
 - Stoneham MD et al. *Br J Anaesth*. 2015
